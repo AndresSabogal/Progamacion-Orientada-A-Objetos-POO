@@ -1,0 +1,2 @@
+# Progamacion-Orientada-A-Objetos-POO
+Este es un pequeño proyecto de programacion orientada a objetos desarrollada con diferentes lenguages como PHP, Java Script, Java y Python y se enfoca en crear clases, objetos, atributos, polimorfismo, encapsulamiento, aprender el concepto de herencia, polimorfismo y creación de métodos en un problema de clasificación de de objetos en Uber (Problema de la vida real :)  )
